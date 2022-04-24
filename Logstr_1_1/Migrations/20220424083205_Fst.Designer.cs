@@ -11,8 +11,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Logstr_1_1.Migrations
 {
     [DbContext(typeof(MusicContext))]
-    [Migration("20220419165634_Init")]
-    partial class Init
+    [Migration("20220424083205_Fst")]
+    partial class Fst
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
